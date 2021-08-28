@@ -1,3 +1,8 @@
+---
+title: "Kaatinga.Ru"
+output: html_document
+---
+
 # Welcome
 
 ![my photo](images/photo.jpg)
