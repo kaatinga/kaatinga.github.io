@@ -1,10 +1,8 @@
-# Welcome to my page
-
 ![my photo](images/photo.jpg)
 
 ## Michael Gunkoff
 
-Hey! I am Software Developer and Painter.  
+Hey! Welcome to my webpage. I am Software Developer and Painter.  
 
 ### Key Skills
 
