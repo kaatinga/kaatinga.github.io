@@ -2,7 +2,7 @@
 
 ![my photo](images/photo.jpg)
 
-Michael Gunkoff
+## Michael Gunkoff
 Backend Developer
 
 Linkedin: https://www.linkedin.com/in/kaatinga
