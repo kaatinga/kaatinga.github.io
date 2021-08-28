@@ -8,7 +8,10 @@ output: html_document
 ![my photo](images/photo.jpg)
 
 ## Michael Gunkoff
-Backend Developer
+Backend Developer, Golang
+
+## Cheat sheets
+- [SQL](download/sql_cheetsheet.pdf)
 
 Contact Me:
 - [Linkedin](https://www.linkedin.com/in/kaatinga)
