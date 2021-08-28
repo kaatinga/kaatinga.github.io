@@ -16,10 +16,10 @@ Hey! Welcome to my webpage. I am Software Developer and Painter.
 - HTML, CSS
 - Photoshop
 
-## Cheat sheets
+### Cheat sheets
 - [SQL](download/sql_cheetsheet.pdf)
 
-Contact Me:
+### Contact Me:
 - [Linkedin](https://www.linkedin.com/in/kaatinga)
 - [GitHub](https://github.com/kaatinga)
 - [Email](mailto:painter@3lines.club)
