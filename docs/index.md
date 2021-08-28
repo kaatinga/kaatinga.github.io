@@ -1,6 +1,6 @@
 # Welcome
 
-[](images/photo.jpg)
+![my photo](images/photo.jpg)
 
 Michael Gunkoff
 Backend Developer
