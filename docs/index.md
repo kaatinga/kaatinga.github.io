@@ -1,3 +1,8 @@
 # Welcome
 
-Hello World
+[](images/photo.jpg)
+
+Michael Gunkoff
+Backend Developer
+
+Linkedin: https://www.linkedin.com/in/kaatinga
