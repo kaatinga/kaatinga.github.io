@@ -1,8 +1,3 @@
----
-title: "Kaatinga.Ru"
-output: html_document
----
-
 # Welcome to my page
 
 ![my photo](images/photo.jpg)
@@ -14,9 +9,12 @@ Hey! I am Software Developer and Painter.
 ### Key Skills
 
 - Golang
+- GO templates
+- UML
+- SQL Databases
 - Docker
 - Kubernates
-- SQL Databases
+- Git
 - HTML, CSS
 - Photoshop
 
