@@ -3,12 +3,22 @@ title: "Kaatinga.Ru"
 output: html_document
 ---
 
-# Welcome
+# Welcome to my page
 
 ![my photo](images/photo.jpg)
 
 ## Michael Gunkoff
-Backend Developer, Golang
+
+Hey! I am Software Developer and Painter.  
+
+### Key Skills
+
+- Golang
+- Docker
+- Kubernates
+- SQL Databases
+- HTML, CSS
+- Photoshop
 
 ## Cheat sheets
 - [SQL](download/sql_cheetsheet.pdf)
