@@ -1,8 +1,3 @@
----
-title: "Kaatinga.Ru"
-output: html_document
----
-
 ![my photo](images/photo.jpg)
 
 ## Michael Gunkoff
