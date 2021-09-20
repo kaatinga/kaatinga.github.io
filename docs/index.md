@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 ## Michael Gunkoff
 
-Hey! Welcome to my webpage. I am Software Developer and Painter.  
+Hey! Welcome to my webpage. Below are some information about me.
 
 ### Key Skills
 

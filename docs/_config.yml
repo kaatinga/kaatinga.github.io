@@ -5,8 +5,10 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      title: Kaatinga.Ru
-      description: Michael Gunkoff's webpage
+      title: Michael Gunkoff's webpage
+      description: I am Software Developer and Painter.
       layout: "default"
-title: Kaatinga.Ru
-description: Michael Gunkoff's webpage
+title: Michael Gunkoff's webpage
+description: I am Software Developer and Painter.
+social:
+  linkedin: https://www.linkedin.com/in/kaatinga || linkedin
