@@ -14,6 +14,7 @@ Hey! Welcome to my webpage. I am Software Developer and Painter.
 - Kubernates
 - Git
 - HTML, CSS
+- Acrylic Painting
 - Photoshop
 
 ### Cheat sheets
