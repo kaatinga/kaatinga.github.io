@@ -1,3 +1,4 @@
+remote_theme: pages-themes/minimal@v0.2.0
 defaults:
   -
     scope:
@@ -7,3 +8,4 @@ defaults:
       description: Michael Gunkoff's webpage
       layout: "default"
 title: Kaatinga.Ru
+description: Michael Gunkoff's webpage
