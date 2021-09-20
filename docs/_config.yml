@@ -10,5 +10,5 @@ defaults:
       layout: "default"
 title: Michael Gunkoff's webpage
 description: I am Software Developer and Painter.
-social:
-  linkedin: https://www.linkedin.com/in/kaatinga || linkedin
+linkedin:
+  username               : kaatinga
