@@ -1,5 +1,3 @@
-![my photo](images/photo.jpg)
-
 ## Michael Gunkoff
 
 Hey! Welcome to my webpage. I am Software Developer and Painter.  
